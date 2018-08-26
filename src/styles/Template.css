@@ -1,0 +1,28 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.newGame {
+  background: transparent;
+  border-width: 0.5px;
+  border-radius: 25px;
+  padding: 10px;
+  font-size: 15px;
+  color: #808080;
+  border-color: #808080;
+  font-weight: bold;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.description {
+  color: #808080;
+  font-size: 15px;
+}
+
+.enumerator {
+  font-size: 30px;
+}

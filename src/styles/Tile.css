@@ -1,0 +1,16 @@
+.tile {
+  background-color: #FFF;
+  border-radius: 4px;
+  margin: 1px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 35px;
+  height: 35px;
+}
+
+.active {
+  background-color: #D9D9D7;
+  font-weight: bold;
+  font-size: 18px;
+}

@@ -38,6 +38,9 @@ npm run build
 
 Built apps are stored in `./dist` folder. Simply serve the `index.html` to run the apps.
 
+### Demo
+Demo for this project is available at [mines-ts](https://mines-ts.surge.sh/).
+
 ## Project TODO's
 * Add Testing
 * Add difficulty setting
